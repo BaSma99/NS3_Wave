@@ -1,0 +1,183 @@
+run WAVE WSMP routing service case:
+receive a packet: 
+  reciever = 02-06-00:00:00:00:00:10,
+  sender = 02-06-00:00:00:00:00:08,
+  sequence = 1,
+  sendTime = +1s,
+  recvTime = +1.00484s,
+  protocol = 0x88dc
+receive a packet: 
+  reciever = 02-06-00:00:00:00:00:18,
+  sender = 02-06-00:00:00:00:00:08,
+  sequence = 1,
+  sendTime = +1s,
+  recvTime = +1.00484s,
+  protocol = 0x88dc
+receive a packet: 
+  reciever = 02-06-00:00:00:00:00:10,
+  sender = 02-06-00:00:00:00:00:18,
+  sequence = 2,
+  sendTime = +5s,
+  recvTime = +5.0555s,
+  protocol = 0x88dc
+receive a packet: 
+  reciever = 02-06-00:00:00:00:00:08,
+  sender = 02-06-00:00:00:00:00:18,
+  sequence = 2,
+  sendTime = +5s,
+  recvTime = +5.0555s,
+  protocol = 0x88dc
+receive a packet: 
+  reciever = 02-06-00:00:00:00:00:18,
+  sender = 02-06-00:00:00:00:00:10,
+  sequence = 3,
+  sendTime = +5s,
+  recvTime = +5.05702s,
+  protocol = 0x88dc
+receive a packet: 
+  reciever = 02-06-00:00:00:00:00:08,
+  sender = 02-06-00:00:00:00:00:10,
+  sequence = 3,
+  sendTime = +5s,
+  recvTime = +5.05702s,
+  protocol = 0x88dc
+receive a packet: 
+  reciever = 02-06-00:00:00:00:00:10,
+  sender = 02-06-00:00:00:00:00:08,
+  sequence = 4,
+  sendTime = +5s,
+  recvTime = +5.05857s,
+  protocol = 0x88dc
+receive a packet: 
+  reciever = 02-06-00:00:00:00:00:18,
+  sender = 02-06-00:00:00:00:00:08,
+  sequence = 4,
+  sendTime = +5s,
+  recvTime = +5.05857s,
+  protocol = 0x88dc
+receive a packet: 
+  reciever = 02-06-00:00:00:00:00:10,
+  sender = 02-06-00:00:00:00:00:18,
+  sequence = 5,
+  sendTime = +10s,
+  recvTime = +10.0555s,
+  protocol = 0x88dc
+receive a packet: 
+  reciever = 02-06-00:00:00:00:00:08,
+  sender = 02-06-00:00:00:00:00:18,
+  sequence = 5,
+  sendTime = +10s,
+  recvTime = +10.0555s,
+  protocol = 0x88dc
+receive a packet: 
+  reciever = 02-06-00:00:00:00:00:18,
+  sender = 02-06-00:00:00:00:00:10,
+  sequence = 6,
+  sendTime = +10s,
+  recvTime = +10.057s,
+  protocol = 0x88dc
+receive a packet: 
+  reciever = 02-06-00:00:00:00:00:08,
+  sender = 02-06-00:00:00:00:00:10,
+  sequence = 6,
+  sendTime = +10s,
+  recvTime = +10.057s,
+  protocol = 0x88dc
+receive a packet: 
+  reciever = 02-06-00:00:00:00:00:10,
+  sender = 02-06-00:00:00:00:00:08,
+  sequence = 7,
+  sendTime = +10s,
+  recvTime = +10.0586s,
+  protocol = 0x88dc
+receive a packet: 
+  reciever = 02-06-00:00:00:00:00:18,
+  sender = 02-06-00:00:00:00:00:08,
+  sequence = 7,
+  sendTime = +10s,
+  recvTime = +10.0586s,
+  protocol = 0x88dc
+receive a packet: 
+  reciever = 02-06-00:00:00:00:00:10,
+  sender = 02-06-00:00:00:00:00:18,
+  sequence = 8,
+  sendTime = +15s,
+  recvTime = +15.0555s,
+  protocol = 0x88dc
+receive a packet: 
+  reciever = 02-06-00:00:00:00:00:08,
+  sender = 02-06-00:00:00:00:00:18,
+  sequence = 8,
+  sendTime = +15s,
+  recvTime = +15.0555s,
+  protocol = 0x88dc
+receive a packet: 
+  reciever = 02-06-00:00:00:00:00:18,
+  sender = 02-06-00:00:00:00:00:10,
+  sequence = 9,
+  sendTime = +15s,
+  recvTime = +15.057s,
+  protocol = 0x88dc
+receive a packet: 
+  reciever = 02-06-00:00:00:00:00:08,
+  sender = 02-06-00:00:00:00:00:10,
+  sequence = 9,
+  sendTime = +15s,
+  recvTime = +15.057s,
+  protocol = 0x88dc
+receive a packet: 
+  reciever = 02-06-00:00:00:00:00:10,
+  sender = 02-06-00:00:00:00:00:08,
+  sequence = 10,
+  sendTime = +15s,
+  recvTime = +15.0586s,
+  protocol = 0x88dc
+receive a packet: 
+  reciever = 02-06-00:00:00:00:00:18,
+  sender = 02-06-00:00:00:00:00:08,
+  sequence = 10,
+  sendTime = +15s,
+  recvTime = +15.0586s,
+  protocol = 0x88dc
+receive a packet: 
+  reciever = 02-06-00:00:00:00:00:10,
+  sender = 02-06-00:00:00:00:00:18,
+  sequence = 11,
+  sendTime = +20s,
+  recvTime = +20.0555s,
+  protocol = 0x88dc
+receive a packet: 
+  reciever = 02-06-00:00:00:00:00:08,
+  sender = 02-06-00:00:00:00:00:18,
+  sequence = 11,
+  sendTime = +20s,
+  recvTime = +20.0555s,
+  protocol = 0x88dc
+receive a packet: 
+  reciever = 02-06-00:00:00:00:00:08,
+  sender = 02-06-00:00:00:00:00:10,
+  sequence = 12,
+  sendTime = +20s,
+  recvTime = +20.057s,
+  protocol = 0x88dc
+receive a packet: 
+  reciever = 02-06-00:00:00:00:00:18,
+  sender = 02-06-00:00:00:00:00:10,
+  sequence = 12,
+  sendTime = +20s,
+  recvTime = +20.057s,
+  protocol = 0x88dc
+receive a packet: 
+  reciever = 02-06-00:00:00:00:00:10,
+  sender = 02-06-00:00:00:00:00:08,
+  sequence = 13,
+  sendTime = +20s,
+  recvTime = +20.0586s,
+  protocol = 0x88dc
+receive a packet: 
+  reciever = 02-06-00:00:00:00:00:18,
+  sender = 02-06-00:00:00:00:00:08,
+  sequence = 13,
+  sendTime = +20s,
+  recvTime = +20.0586s,
+  protocol = 0x88dc
